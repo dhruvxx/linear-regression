@@ -5,7 +5,6 @@ The code uses the python libraries [numpy](https://numpy.org/doc/stable/), [matp
 #### Contributors
 [Dhruvee Birla](https://github.com/dhruvxx) and myself.
 
-<br>
 This assignment was done as a part of the Machine, Data and Learning course, Spring 2021.
 
 ---
