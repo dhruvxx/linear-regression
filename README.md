@@ -2,8 +2,6 @@
 
 The code uses the python libraries [numpy](https://numpy.org/doc/stable/), [matplotlib](https://matplotlib.org/stable/contents.html), [pickle](https://docs.python.org/3/library/pickle.html), [pandas](https://pandas.pydata.org/docs/getting_started/overview.html) and [scikit-learn](https://scikit-learn.org/stable/). The official documentations of these libraries have been linked.
 
-Task 1 has been answered in the report ([report.pdf](https://github.com/codelixir/linear-regression/blob/main/report.pdf)). The notebook ([code.ipynb](https://github.com/codelixir/linear-regression/blob/main/code.ipynb)) contains the remaining tasks. The train and test data used in these tasks are in the [data](https://github.com/codelixir/linear-regression/tree/main/data) directory. The report also contains observations and conclusions of tasks 2-4.
-
 #### Contributors
 [Dhruvee Birla](https://github.com/dhruvxx) and myself.
 
@@ -11,6 +9,10 @@ Task 1 has been answered in the report ([report.pdf](https://github.com/codelixi
 This assignment was done as a part of the Machine, Data and Learning course, Spring 2021.
 
 ---
+
+# Linear Regression
+
+Task 1 has been answered in the report ([report.pdf](https://github.com/codelixir/linear-regression/blob/main/report.pdf)). The notebook ([code.ipynb](https://github.com/codelixir/linear-regression/blob/main/code.ipynb)) contains the remaining tasks. The train and test data used in these tasks are in the [data](https://github.com/codelixir/linear-regression/tree/main/data) directory. The report also contains observations and conclusions of tasks 2-4.
 
 ## Task 1: Linear Regression
 
