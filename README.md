@@ -3,7 +3,7 @@
 The code uses the python libraries [numpy](https://numpy.org/doc/stable/), [matplotlib](https://matplotlib.org/stable/contents.html), [pickle](https://docs.python.org/3/library/pickle.html), [pandas](https://pandas.pydata.org/docs/getting_started/overview.html) and [scikit-learn](https://scikit-learn.org/stable/). The official documentations of these libraries have been linked.
 
 #### Contributors
-[Dhruvee Birla](https://github.com/dhruvxx) and myself.
+[Pahulpreet Singh](https://github.com/codelixir) and [Dhruvee Birla](https://github.com/dhruvxx).
 
 This assignment was done as a part of the Machine, Data and Learning course, Spring 2021.
 
